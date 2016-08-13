@@ -1,0 +1,8 @@
+{
+  "name": "cerad",
+  "version": "0.0.1",
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-preset-es2015": "^6.13.2"
+  }
+}
